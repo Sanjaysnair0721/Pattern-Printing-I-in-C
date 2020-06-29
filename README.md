@@ -1,5 +1,6 @@
 # Pattern-Printing-I-in-C
 In this problem, we will print the pattern of the following form containing the numbers from  to n.
+
                             4 4 4 4 4 4 4  
                             4 3 3 3 3 3 4   
                             4 3 2 2 2 3 4   
