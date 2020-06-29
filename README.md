@@ -24,5 +24,7 @@ Print the pattern mentioned above.
 # Sample Output
 
 2 2 2
+
 2 1 2
+
 2 2 2
